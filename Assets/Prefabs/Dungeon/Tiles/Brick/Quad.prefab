@@ -1,0 +1,285 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3920949694759528848
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3920949694759528855}
+  m_Layer: 0
+  m_Name: Quad
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3920949694759528855
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3920949694759528848}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 1.403, y: 0.341, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4645700716400322799}
+  - {fileID: 4809170410387859267}
+  - {fileID: 4809170411600275480}
+  - {fileID: 4809170411647733260}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &3796325351832860587
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3920949694759528855}
+    m_Modifications:
+    - target: {fileID: 1566594131384236084, guid: 8c09382487b12c148b3a7faaab1dc200, type: 3}
+      propertyPath: m_Name
+      value: Tiles-SandstoneDungeons_5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8419367332414955332, guid: 8c09382487b12c148b3a7faaab1dc200, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8419367332414955332, guid: 8c09382487b12c148b3a7faaab1dc200, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -7.91
+      objectReference: {fileID: 0}
+    - target: {fileID: 8419367332414955332, guid: 8c09382487b12c148b3a7faaab1dc200, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.67
+      objectReference: {fileID: 0}
+    - target: {fileID: 8419367332414955332, guid: 8c09382487b12c148b3a7faaab1dc200, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8419367332414955332, guid: 8c09382487b12c148b3a7faaab1dc200, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8419367332414955332, guid: 8c09382487b12c148b3a7faaab1dc200, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8419367332414955332, guid: 8c09382487b12c148b3a7faaab1dc200, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8419367332414955332, guid: 8c09382487b12c148b3a7faaab1dc200, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8419367332414955332, guid: 8c09382487b12c148b3a7faaab1dc200, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8419367332414955332, guid: 8c09382487b12c148b3a7faaab1dc200, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8419367332414955332, guid: 8c09382487b12c148b3a7faaab1dc200, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8c09382487b12c148b3a7faaab1dc200, type: 3}
+--- !u!4 &4645700716400322799 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8419367332414955332, guid: 8c09382487b12c148b3a7faaab1dc200, type: 3}
+  m_PrefabInstance: {fileID: 3796325351832860587}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &3920949695079512071
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3920949694759528855}
+    m_Modifications:
+    - target: {fileID: 1566594131384236084, guid: 8c09382487b12c148b3a7faaab1dc200, type: 3}
+      propertyPath: m_Name
+      value: Tiles-SandstoneDungeons_5 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8419367332414955332, guid: 8c09382487b12c148b3a7faaab1dc200, type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8419367332414955332, guid: 8c09382487b12c148b3a7faaab1dc200, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -7.245
+      objectReference: {fileID: 0}
+    - target: {fileID: 8419367332414955332, guid: 8c09382487b12c148b3a7faaab1dc200, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.67
+      objectReference: {fileID: 0}
+    - target: {fileID: 8419367332414955332, guid: 8c09382487b12c148b3a7faaab1dc200, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8419367332414955332, guid: 8c09382487b12c148b3a7faaab1dc200, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8419367332414955332, guid: 8c09382487b12c148b3a7faaab1dc200, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8419367332414955332, guid: 8c09382487b12c148b3a7faaab1dc200, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8419367332414955332, guid: 8c09382487b12c148b3a7faaab1dc200, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8419367332414955332, guid: 8c09382487b12c148b3a7faaab1dc200, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8419367332414955332, guid: 8c09382487b12c148b3a7faaab1dc200, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8419367332414955332, guid: 8c09382487b12c148b3a7faaab1dc200, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8c09382487b12c148b3a7faaab1dc200, type: 3}
+--- !u!4 &4809170410387859267 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8419367332414955332, guid: 8c09382487b12c148b3a7faaab1dc200, type: 3}
+  m_PrefabInstance: {fileID: 3920949695079512071}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &3920949695266558280
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3920949694759528855}
+    m_Modifications:
+    - target: {fileID: 1566594131384236084, guid: 8c09382487b12c148b3a7faaab1dc200, type: 3}
+      propertyPath: m_Name
+      value: Tiles-SandstoneDungeons_5 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8419367332414955332, guid: 8c09382487b12c148b3a7faaab1dc200, type: 3}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 8419367332414955332, guid: 8c09382487b12c148b3a7faaab1dc200, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -7.245
+      objectReference: {fileID: 0}
+    - target: {fileID: 8419367332414955332, guid: 8c09382487b12c148b3a7faaab1dc200, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.026
+      objectReference: {fileID: 0}
+    - target: {fileID: 8419367332414955332, guid: 8c09382487b12c148b3a7faaab1dc200, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8419367332414955332, guid: 8c09382487b12c148b3a7faaab1dc200, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8419367332414955332, guid: 8c09382487b12c148b3a7faaab1dc200, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8419367332414955332, guid: 8c09382487b12c148b3a7faaab1dc200, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8419367332414955332, guid: 8c09382487b12c148b3a7faaab1dc200, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8419367332414955332, guid: 8c09382487b12c148b3a7faaab1dc200, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8419367332414955332, guid: 8c09382487b12c148b3a7faaab1dc200, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8419367332414955332, guid: 8c09382487b12c148b3a7faaab1dc200, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8c09382487b12c148b3a7faaab1dc200, type: 3}
+--- !u!4 &4809170411647733260 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8419367332414955332, guid: 8c09382487b12c148b3a7faaab1dc200, type: 3}
+  m_PrefabInstance: {fileID: 3920949695266558280}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &3920949696027162460
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3920949694759528855}
+    m_Modifications:
+    - target: {fileID: 1566594131384236084, guid: 8c09382487b12c148b3a7faaab1dc200, type: 3}
+      propertyPath: m_Name
+      value: Tiles-SandstoneDungeons_5 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8419367332414955332, guid: 8c09382487b12c148b3a7faaab1dc200, type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8419367332414955332, guid: 8c09382487b12c148b3a7faaab1dc200, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -7.911
+      objectReference: {fileID: 0}
+    - target: {fileID: 8419367332414955332, guid: 8c09382487b12c148b3a7faaab1dc200, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.026
+      objectReference: {fileID: 0}
+    - target: {fileID: 8419367332414955332, guid: 8c09382487b12c148b3a7faaab1dc200, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8419367332414955332, guid: 8c09382487b12c148b3a7faaab1dc200, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8419367332414955332, guid: 8c09382487b12c148b3a7faaab1dc200, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8419367332414955332, guid: 8c09382487b12c148b3a7faaab1dc200, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8419367332414955332, guid: 8c09382487b12c148b3a7faaab1dc200, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8419367332414955332, guid: 8c09382487b12c148b3a7faaab1dc200, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8419367332414955332, guid: 8c09382487b12c148b3a7faaab1dc200, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8419367332414955332, guid: 8c09382487b12c148b3a7faaab1dc200, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8c09382487b12c148b3a7faaab1dc200, type: 3}
+--- !u!4 &4809170411600275480 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8419367332414955332, guid: 8c09382487b12c148b3a7faaab1dc200, type: 3}
+  m_PrefabInstance: {fileID: 3920949696027162460}
+  m_PrefabAsset: {fileID: 0}
